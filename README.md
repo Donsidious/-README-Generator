@@ -12,7 +12,7 @@ This application was created using node.js to generate professional README.md do
 
 ## Video Walkthrough
 
-https://drive.google.com/file/d/1nUfQbtFsdXHdMTetCuJtYdThdO6zbyXW/view
+https://drive.google.com/file/d/1sfK6tIjF6fmIgtYw3jcT_4bN82AJo4Tl/view
 
 ## Technologies Used
 
